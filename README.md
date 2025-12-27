@@ -19,7 +19,7 @@ Key tasks performed:
 ## Files Included
 - `Customer_Support_Tickets_Notebook.ipynb` – Colab notebook with analysis
 - `customer_support_tickets_cleaned.csv` – cleaned dataset
-- `Manager_Report_Customer_Support.pdf` – PDF report summarizing insights
+- `Support Manager Report.pdf` – PDF report summarizing insights
 
 ## How to Run
 1. Open the notebook in **Google Colab**.
