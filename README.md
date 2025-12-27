@@ -17,7 +17,7 @@ Key tasks performed:
 - **GitHub** – for version control and submission
 
 ## Files Included
-- `Customer_Support_Tickets_Notebook.ipynb` – Colab notebook with analysis
+- `Week1_Customer_Support_Triage.ipynb` – Colab notebook with analysis
 - `customer_support_tickets_cleaned.csv` – cleaned dataset
 - `Support Manager Report.pdf` – PDF report summarizing insights
 
